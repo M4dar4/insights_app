@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -44,25 +44,25 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.cidr.known.project.marker": "true",
+-    "cidr.known.project.marker": "true",
+-    "com.google.services.firebase.aqiPopupShown": "true",
+-    "last_opened_file_path": "H:/Android CODE/InsightsVITB",
+-    "project.structure.last.edited": "Dependencies",
+-    "project.structure.proportion": "0.17",
+-    "project.structure.side.proportion": "0.2"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
++    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
++    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;H:/Android CODE/InsightsVITB&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Dependencies&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+   },
+-  "keyToStringList": {
+-    "ChangesTree.GroupingKeys": [
+-      "directory",
+-      "module"
++  &quot;keyToStringList&quot;: {
++    &quot;ChangesTree.GroupingKeys&quot;: [
++      &quot;directory&quot;,
++      &quot;module&quot;
+     ]
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="android.template.-1842151861">
+       <recent name="vit.bhopal.insight" />

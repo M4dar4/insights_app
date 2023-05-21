@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_5_21_2023_8_51_PM_[Changes]1" date="1684682501536" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_21_2023_8_51_PM_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 5/21/2023 8:51 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/src/main/res/drawable/discord_logo.png" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/discord_logo.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_21_2023_8_51_PM_[Changes]1/discord_logo.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/src/main/res/drawable/insta_logo.png" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/insta_logo.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_21_2023_8_51_PM_[Changes]1/insta_logo.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/src/main/res/drawable/face_logo.png" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/face_logo.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_21_2023_8_51_PM_[Changes]1/face_logo.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/src/main/res/drawable/yt_logo.png" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/yt_logo.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_21_2023_8_51_PM_[Changes]1/yt_logo.png" />
+  </binary>
+</changelist>
