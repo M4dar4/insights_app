@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fae4cf"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile_image"
+                android:layout_width="195dp"
+                android:layout_height="155dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/symbol"
+                tools:layout_editor_absoluteX="108dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="horizontal"
+                android:paddingHorizontal="20dp"
+                android:paddingTop="15dp">
+
+                <ImageView
+                    android:id="@+id/discord"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/discord_logo" />
+
+                <ImageView
+                    android:id="@+id/insta"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/insta_logo" />
+
+                <ImageView
+                    android:id="@+id/facebook"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/face_logo" />
+
+                <ImageView
+                    android:id="@+id/youtube"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/yt_logo" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/recruit"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/text_back"
+                android:text="Insights Club Recruitment 2.0"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/campustour"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/text_back"
+                android:text="VIT Campus Tour"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="30dp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/alike"
+                android:text="Newsletter"
+                android:textAlignment="center"
+                android:textColor="#49454F"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/Issue"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/text_back"
+                android:text="Latest Issue"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/publications"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/text_back"
+                android:text="All Publications"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="30dp" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/alike"
+                android:text="Event Updates"
+                android:textAlignment="center"
+                android:textColor="#49454F"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/event"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/text_back"
+                android:text="Rhapsody Rumble"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/inquistadors"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/text_back"
+                android:text="Insights Inquistadors"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/igniters"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/text_back"
+                android:text="Insights X Igniters"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <TextView
+                android:id="@+id/whatsapp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/text_back"
+                android:text="WhatsApp Community"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="26sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="30dp" />
+
+            <Button
+                android:id="@+id/buttonLogout"
+                android:layout_width="130dp"
+                android:layout_height="51dp"
+                android:text="Log Out"
+                android:textSize="18sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

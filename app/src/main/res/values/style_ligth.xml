@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomThemeLight" parent="Theme.AppCompat.Light">
+        <!-- Customize the theme attributes -->
+        <item name="colorPrimary">#fae4cf</item>
+        <!-- Add more customizations as needed -->
+    </style>
+
+</resources>

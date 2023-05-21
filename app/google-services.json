@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984171896060",
+    "project_id": "insightvitb",
+    "storage_bucket": "insightvitb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984171896060:android:29b1764322f474c3b28b79",
+        "android_client_info": {
+          "package_name": "vit.bhopal.insight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984171896060-26i3j4el2450eljtrhp0lmjs47f1ftmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vit.bhopal.insight",
+            "certificate_hash": "1a8fdd0227e3a51fa01da833c94eaadcf81e5b6b"
+          }
+        },
+        {
+          "client_id": "984171896060-jh0sq5epi5v9rpntd03keuphdm3jtch8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHGsIP7GlZ-RaNwk9F6xfuyDWiWbHZaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984171896060-jh0sq5epi5v9rpntd03keuphdm3jtch8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
